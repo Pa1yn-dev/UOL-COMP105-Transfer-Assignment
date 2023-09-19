@@ -1,9 +1,10 @@
 # UOL-COMP105-Transfer-Assignment
 
 ## Completed on 19/09/2023 17:19 BST
-## Peter Hamilton
+Peter Hamilton
+Student ID: 201713428
 
-### Problem in question:
+Problem in question:
 
 > Problem b: The Collatz Problem
 > Suppose we take a number n and do the following transformation:
