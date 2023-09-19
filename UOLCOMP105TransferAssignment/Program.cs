@@ -49,14 +49,12 @@ namespace collatzproblem
             {
                 if(input%2 == 0)
                 {
-                    System.Console.WriteLine("Input number is even");
                     input = input/2;
                     termcounter++;
                 
                 }
                 else
                 {
-                System.Console.WriteLine("Input number is odd");
                 input = (3 * input) + 1;
                 termcounter++;
 
