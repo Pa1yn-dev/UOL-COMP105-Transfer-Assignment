@@ -1,0 +1,15 @@
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/bin/Debug/net7.0/UOLCOMP105TransferAssignment
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/bin/Debug/net7.0/UOLCOMP105TransferAssignment.deps.json
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/bin/Debug/net7.0/UOLCOMP105TransferAssignment.runtimeconfig.json
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/bin/Debug/net7.0/UOLCOMP105TransferAssignment.dll
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/bin/Debug/net7.0/UOLCOMP105TransferAssignment.pdb
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/UOLCOMP105TransferAssignment.csproj.AssemblyReference.cache
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/UOLCOMP105TransferAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/UOLCOMP105TransferAssignment.AssemblyInfoInputs.cache
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/UOLCOMP105TransferAssignment.AssemblyInfo.cs
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/UOLCOMP105TransferAssignment.csproj.CoreCompileInputs.cache
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/UOLCOMP105TransferAssignment.dll
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/refint/UOLCOMP105TransferAssignment.dll
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/UOLCOMP105TransferAssignment.pdb
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/UOLCOMP105TransferAssignment.genruntimeconfig.cache
+/home/kitt/Documents/GitHub/UOL-COMP105-Transfer-Assignment/UOLCOMP105TransferAssignment/obj/Debug/net7.0/ref/UOLCOMP105TransferAssignment.dll
