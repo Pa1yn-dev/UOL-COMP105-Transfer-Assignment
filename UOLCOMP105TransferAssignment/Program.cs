@@ -32,7 +32,7 @@ namespace collatzproblem
                 }
             }
 
-            System.Console.WriteLine($"Longest Collatz sequence begins with nth term {nthtermoflargestseq} which has the longest sequence of {largesttermcounter} terms");
+            System.Console.WriteLine($"Longest Collatz sequence begins with n={nthtermoflargestseq} which has the longest sequence of {largesttermcounter} terms");
 
 
             
