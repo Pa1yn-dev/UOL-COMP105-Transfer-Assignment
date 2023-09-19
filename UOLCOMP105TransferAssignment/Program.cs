@@ -11,6 +11,7 @@ namespace collatzproblem
         public static void Main()
         {
             long startnumber = 1;
+            
             while (startnumber < 10000)
             {
                 collatzcomputations.Add(collatzcompute(startnumber));
@@ -25,9 +26,9 @@ namespace collatzproblem
                 if(computation.termcounter > largesttermcounter)
                 {
                     largesttermcounter = computation.termcounter;
+
                     nthtermoflargestseq = computation.nthterm;
 
-                    
                 }
             }
 
@@ -47,27 +48,31 @@ namespace collatzproblem
 
             while (input > 1)
             {
+                // Modulus gets remainder of input term when divided by 2, determining if the input is odd or even.
                 if(input%2 == 0)
                 {
+                    // n -> n / 2
                     input = input/2;
+
                     termcounter++;
                 
                 }
+
                 else
                 {
-                input = (3 * input) + 1;
-                termcounter++;
+                    // n -> 3n + 1
+                    input = (3 * input) + 1;
+                    termcounter++;
 
                 }
 
             }
 
             System.Console.WriteLine($"Collatz sequence for {nthterm} has {termcounter} terms. ");
+
             CollatzComputation newcomputation = new CollatzComputation(nthterm, termcounter);
+
             return newcomputation;
-            
-
-
         }
     }
 }
