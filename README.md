@@ -1,8 +1,8 @@
 # UOL-COMP105-Transfer-Assignment
 
 ## Completed on 19/09/2023 17:19 BST
-Peter Hamilton
-Student ID: 201713428
+- Peter Hamilton
+- Student ID: 201713428
 
 Problem in question:
 
