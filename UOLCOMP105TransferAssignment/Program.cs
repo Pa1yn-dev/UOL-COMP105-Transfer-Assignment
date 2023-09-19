@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Diagnostics.Metrics;
+using collatzproblem.collatzcomputationclass;
 
 namespace collatzproblem
 {
     class Program
     {
-        public record CollatzComputation(long nthterm, long termcounter);
         public static List<CollatzComputation> collatzcomputations = new List<CollatzComputation>();
         
         public static void Main()
@@ -23,11 +23,11 @@ namespace collatzproblem
 
             foreach (CollatzComputation computation in collatzcomputations)
             {
-                if(computation.termcounter > largesttermcounter)
+                if(computation.TermCounter > largesttermcounter)
                 {
-                    largesttermcounter = computation.termcounter;
+                    largesttermcounter = computation.TermCounter;
 
-                    nthtermoflargestseq = computation.nthterm;
+                    nthtermoflargestseq = computation.NthTerm;
 
                 }
             }
