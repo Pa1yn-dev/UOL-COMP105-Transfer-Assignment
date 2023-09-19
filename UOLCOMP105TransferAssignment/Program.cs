@@ -10,7 +10,7 @@ namespace collatzproblem
         
         public static void Main()
         {
-            long startnumber = 1;
+            long startnumber = 0;
             
             while (startnumber < 10000)
             {
